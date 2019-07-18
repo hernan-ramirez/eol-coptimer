@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="c9c061a7-570c-4db7-9f94-cf17121b750a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="COPTimerJob.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="COPTimerJob_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

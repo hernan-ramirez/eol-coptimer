@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="735ba848-c3d9-44bb-96fa-75192a2a5830" ReceiverAssembly="COPTimerJob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=77b6800007ced56e" ReceiverClass="COPTimerJob.Features.Feature1.Feature1EventReceiver" Scope="Site" Title="COPTimerJob Feature1"></Feature>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c9c061a7-570c-4db7-9f94-cf17121b750a" solutionId="c9c061a7-570c-4db7-9f94-cf17121b750a" resetWebServer="false" name="COPTimerJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7c41adbf-445f-4262-9b97-b3adbc7c902a" />
+  </features>
+</package>
